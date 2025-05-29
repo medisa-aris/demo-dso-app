@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=com.example%3AdsoApp&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=com.example%3AdsoApp)
+
 # demo-dso-app
 
 ## Overview
